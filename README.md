@@ -1,7 +1,5 @@
-নিচে আমি তোমার জন্য **internship + scholarship ready professional README** তৈরি করে দিলাম—এটা আরও polished, recruiter-friendly এবং portfolio standard করা হয়েছে।
-এবং তোমার দেওয়া সব screenshot ঠিকভাবে add করে দেওয়া হয়েছে।
 
----
+
 
 # 🧾 Pro Bill Master – Retail Billing & Invoice Management System
 
@@ -232,7 +230,8 @@ Highlights:
 
 # 👨‍💻 Developer
 
-**Md Nasim Hawlader**
+**Md Nasim Howladar**
+
 B.Sc. in Computer Engineering
 
 ---
