@@ -87,13 +87,12 @@ Secure authentication system to protect billing dashboard access.
 | Git & GitHub | Version Control  |
 
 ---
-
 # 📸 Application Screenshots
 
 ## 🔐 Admin Login Page
 
 <p align="center">
-  <img src="Project Summary Image/admin login.png" width="800"/>
+  <img src="project%20summary%20iamge/admin%20login.png" width="800"/>
 </p>
 
 ---
@@ -101,7 +100,7 @@ Secure authentication system to protect billing dashboard access.
 ## 🛒 Select Item & Price Display
 
 <p align="center">
-  <img src="Project Summary Image/select item and price show.png" width="900"/>
+  <img src="project%20summary%20iamge/select%20item%20and%20price%20show.png" width="900"/>
 </p>
 
 ---
@@ -109,9 +108,8 @@ Secure authentication system to protect billing dashboard access.
 ## 📊 Sales History Panel
 
 <p align="center">
-  <img src="Project Summary Image/sale history.png" width="900"/>
+  <img src="project%20summary%20iamge/sale%20history.png" width="900"/>
 </p>
-
 ---
 
 # ⚙️ System Workflow
