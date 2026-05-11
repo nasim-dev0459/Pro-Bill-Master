@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Tkinter-GUI%20Application-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQLite-Database-orange?style=for-the-badge&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/Desktop-App-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Desktop-Application-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
 
@@ -12,43 +12,48 @@
 
 # 📌 Project Overview
 
-**Pro Bill Master** is a desktop-based retail billing and invoice management system developed using **Python**, **Tkinter**, and **SQLite3**.
+**Pro Bill Master** is a desktop-based retail billing and invoice management application developed using **Python**, **Tkinter**, and **SQLite3**.
 
-This application is designed to help small businesses, restaurants, and retail shops efficiently manage:
+This project was designed to simplify daily billing operations for:
 
-* Daily sales
-* Invoice generation
-* Customer billing
-* Transaction history
-* Real-time price calculation
+* 🛒 Small Businesses
+* 🍽️ Restaurants
+* 🏪 Retail Shops
+* ☕ Cafeterias
 
-The project focuses on building a user-friendly billing solution that can be operated easily without advanced technical knowledge.
+The system provides a complete billing workflow including:
 
-The system provides:
-
-* Secure login authentication
-* Interactive billing dashboard
+* Secure login system
+* Dynamic billing dashboard
 * Real-time total calculation
-* Automated invoice generation
-* Sales history management
+* Invoice generation
+* Sales history tracking
+* Database-based transaction storage
 
-This project demonstrates practical experience in:
+The application focuses on:
 
-* Desktop Software Development
-* Database Management
+* Simplicity
+* Fast billing operations
+* Accuracy in calculations
+* User-friendly interface
+
+This project demonstrates practical skills in:
+
+* Desktop Application Development
 * GUI Design
-* Financial Calculation Systems
-* Retail Automation Solutions
+* Database Management
+* Business Software Development
+* Python-Based Automation Systems
 
 ---
 
 # 🎯 Objectives
 
-* Simplify retail billing processes
+* Develop an efficient retail billing system
 * Automate invoice generation
 * Reduce manual calculation errors
-* Maintain sales transaction history
-* Build an easy-to-use desktop business application
+* Store transaction history securely
+* Build an easy-to-use desktop application
 
 ---
 
@@ -57,70 +62,70 @@ This project demonstrates practical experience in:
 ## 🔐 Secure Login System
 
 * Admin authentication panel
-* Prevents unauthorized system access
-* Secure application workflow
+* Prevents unauthorized access
+* Simple and secure login workflow
 
 ---
 
-## 🖥️ Interactive Billing Dashboard
+## 🧾 Dynamic Billing Dashboard
 
-* Add or remove products dynamically
-* Real-time quantity management
-* Instant total price updates
-
----
-
-## 🧾 Automatic Invoice Generation
-
-* Generates text-based invoices
-* Printable billing receipts
-* Easy transaction documentation
+* Add products instantly
+* Increase or decrease quantities
+* Automatic grand total calculation
+* Responsive billing interface
 
 ---
 
 ## 📊 Sales History Management
 
-* Stores all transaction records
-* View previous sales history
-* Persistent SQLite database storage
+* Stores all previous transactions
+* Database-based record keeping
+* Easy monitoring of sales activities
 
 ---
 
-## ⚡ Real-Time Calculation System
+## 🖨️ Invoice Generation
 
-* Automatic subtotal calculation
-* Grand total updates instantly
-* Error-free billing process
+* Generates printable text-based invoices
+* Stores transaction details
+* Organized billing records
 
 ---
 
-## 💾 Database Integration
+## ⚡ Real-Time Calculations
 
-* SQLite database support
+* Automatic price updates
+* Accurate subtotal and total calculation
+* Fast billing process
+
+---
+
+## 💾 SQLite Database Integration
+
 * Permanent transaction storage
-* Lightweight and efficient system
+* Lightweight and efficient database system
+* Easy data retrieval
 
 ---
 
 # 🛠️ Technologies Used
 
-| Technology    | Purpose                   |
-| ------------- | ------------------------- |
-| Python        | Core Programming Language |
-| Tkinter       | Desktop GUI Development   |
-| SQLite3       | Database Management       |
-| VS Code       | Development Environment   |
-| File Handling | Invoice Storage           |
-| Git & GitHub  | Version Control           |
+| Technology   | Purpose                   |
+| ------------ | ------------------------- |
+| Python       | Core Programming Language |
+| Tkinter      | GUI Development           |
+| SQLite3      | Database Management       |
+| VS Code      | Development Environment   |
+| Git & GitHub | Version Control           |
 
 ---
 
 # 📸 Application Screenshots
 
-## 🖥️ Login Interface
+## 🔐 Login Interface
 
 <p align="center">
-  <img src="project%20summary%20iamge/login.png" width="700"/>
+  <img src="Project%20Summary%20Image/Login.png" width="700"/>
 </p>
 
 ---
@@ -128,7 +133,7 @@ This project demonstrates practical experience in:
 ## 🧾 Billing Dashboard
 
 <p align="center">
-  <img src="project%20summary%20iamge/dashboard.png" width="900"/>
+  <img src="Project%20Summary%20Image/Billing%20Dashboard.png" width="900"/>
 </p>
 
 ---
@@ -136,57 +141,58 @@ This project demonstrates practical experience in:
 ## 📊 Sales History
 
 <p align="center">
-  <img src="project%20summary%20iamge/history.png" width="900"/>
+  <img src="Project%20Summary%20Image/Sales%20History.png" width="900"/>
 </p>
 
 ---
 
 # 📂 Project Summary
 
-The `project summary iamge/` folder contains:
+The `Project Summary Image/` folder contains:
 
-* 📸 Application Screenshots
+* 📸 Login Screen Screenshots
 * 🧾 Billing Dashboard Preview
-* 🔐 Login Interface Images
-* 📊 Sales History Demonstrations
-* 💻 GUI Showcase
+* 📊 Sales History Interface
+* 🖨️ Invoice Output Demonstrations
+* 💻 GUI Showcase Images
 
 ---
 
 # ⚙️ System Workflow
 
-```text id="r2cij6"
+```text id="pobq2g"
 Admin Login
-        ↓
-Product Selection
-        ↓
-Quantity Management
-        ↓
-Real-Time Total Calculation
-        ↓
-Invoice Generation
-        ↓
-Database Storage
-        ↓
-Sales History Tracking
+      ↓
+Access Billing Dashboard
+      ↓
+Select Products
+      ↓
+Update Quantity
+      ↓
+Automatic Total Calculation
+      ↓
+Generate Invoice
+      ↓
+Store Transaction in Database
 ```
 
 ---
 
 # 📂 Project Structure
 
-```bash id="1o7h7d"
+```bash id="s8l1z2"
 Pro-Bill-Master/
 │
 ├── main.py
+├── login.py
 ├── database.db
 ├── requirements.txt
 ├── README.md
 │
-├── project summary iamge/
-│   ├── login.png
-│   ├── dashboard.png
-│   └── history.png
+├── Project Summary Image/
+│   ├── Login.png
+│   ├── Billing Dashboard.png
+│   ├── Sales History.png
 │
 ├── invoices/
 ├── database/
@@ -200,7 +206,7 @@ Pro-Bill-Master/
 
 ## 1️⃣ Clone Repository
 
-```bash id="m9i3oz"
+```bash id="xb8z0n"
 git clone https://github.com/nasim-dev0459/Pro-Bill-Master.git
 ```
 
@@ -208,7 +214,7 @@ git clone https://github.com/nasim-dev0459/Pro-Bill-Master.git
 
 ## 2️⃣ Move Into Project Directory
 
-```bash id="t1bls7"
+```bash id="a6t9s1"
 cd Pro-Bill-Master
 ```
 
@@ -216,7 +222,7 @@ cd Pro-Bill-Master
 
 ## 3️⃣ Install Dependencies
 
-```bash id="fw4n88"
+```bash id="q0b7vh"
 pip install -r requirements.txt
 ```
 
@@ -224,7 +230,7 @@ pip install -r requirements.txt
 
 # ▶️ Run The Application
 
-```bash id="q2s7sx"
+```bash id="k84l2v"
 python main.py
 ```
 
@@ -232,11 +238,11 @@ python main.py
 
 # 💻 Software Requirements
 
-```text id="ywq5k6"
+```text id="v4mn1f"
 Python 3.11+
-Tkinter
+VS Code / Any Python IDE
 SQLite3
-Visual Studio Code
+Tkinter
 ```
 
 ---
@@ -245,32 +251,32 @@ Visual Studio Code
 
 * ☁️ Cloud Database Integration
 * 📱 Mobile Billing Version
+* 🧾 PDF Invoice Export
+* 📊 Sales Analytics Dashboard
+* 🔔 Low Stock Notifications
 * 💳 Online Payment Integration
-* 📊 Advanced Analytics Dashboard
-* 🧑‍💼 Employee Management System
-* 🖨️ PDF Invoice Export
-* 🌐 Multi-User Support
+* 🌐 Multi-User Access System
 
 ---
 
 # 🎓 Academic & Career Value
 
-This project demonstrates practical skills in:
+This project demonstrates practical experience in:
 
 * Desktop Application Development
-* GUI Design
-* Database Management
-* Retail Software Systems
-* Financial Calculation Automation
-* Software Engineering Fundamentals
+* GUI-Based Software Design
+* Database Management Systems
+* Retail Automation Solutions
+* Business Application Development
+* Python Software Engineering
 
 Suitable for:
 
 * Internship Applications
 * Scholarship Applications
 * Software Engineering Portfolios
-* Desktop Application Projects
-* Academic Final Year Projects
+* Academic Projects
+* Desktop Application Showcases
 
 ---
 
@@ -279,11 +285,11 @@ Suitable for:
 Through this project, I gained experience in:
 
 * Tkinter GUI Development
-* SQLite Database Integration
-* Python Desktop Applications
-* Invoice Management Systems
-* CRUD Operations
-* Real-Time Data Handling
+* SQLite Database Operations
+* CRUD Functionality
+* Billing System Logic
+* Invoice Automation
+* Desktop Software Architecture
 
 ---
 
@@ -312,7 +318,7 @@ This project is developed for:
 
 # 👨‍💻 Developer
 
-## Md Nasim Howladar
+## Md Nasim Hawlader
 
 B.Sc. in Computer Engineering
 
@@ -322,11 +328,11 @@ B.Sc. in Computer Engineering
 * Desktop Application Development
 * Artificial Intelligence
 * Database Systems
-* UI/UX Design
+* Automation Solutions
 
 ---
 
 # ⭐ Support
 
 If you found this project useful, please give it a ⭐ on GitHub.
-Your support motivates future software and research projects 🚀
+Your support motivates future software development projects 🚀
